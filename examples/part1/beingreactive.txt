@@ -1,0 +1,29 @@
+CRUD
+
+data flow computing
+
+lambdas and server less 
+
+OOP
+-Abstraction
+-Encapsulation
+-Inheritance
+-Polymorphism
+
+Reactive Programming
+-Elastic
+-message driven
+-Responsive
+-Resilient
+
+d -> fn -> d -> fn -> d -> fn -> d -> fn -> 
+
+Both in life and programming there are two
+things we should never share:
+	toothbrush and databases
+
+
+Failure as first class citizen
+Fail gracefully
+
+
