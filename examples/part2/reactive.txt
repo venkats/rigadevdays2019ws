@@ -1,0 +1,17 @@
+Functional programming?
+- immutability
+- pure functions
+- higher-order functions
+
+But, what if functional programming really?
+Functional composition + lazy evaluation
+
+laziness leads to efficiency
+laziness can't exist without functional purity 
+	(or immutability)
+	
+Reactive programming builds on top of functional programming
+	functional composition
+	lazy evaluation
+	synchronous vs. asynchronous computations
+	backpressure
